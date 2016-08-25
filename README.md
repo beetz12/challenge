@@ -15,17 +15,17 @@ This is the details page for Star Wars characters. It should accept a character 
 This purpose of this service is to make http calls to the Star Wars API (SWAPI) and return a promise. It should have the two methods - getOne and getAll. getOne takes a parameter of id will issue an http GET to http://swapi.co/api/people/{id}. getAll takes no parameters and will issue a GET to http://swapi.co/api/people. 
 
 ## Acceptance Criteria
-1. When the app initially loads, I should see the names of the first 10 star wars characters displayed in a list. 
+1. When the app loads, it should display the names of the first 10 star wars characters in a list. 
 2. The list can be filtered by entering a search criteria. 
-3. By clicking  / tapping on a name, I can go to the details page, where the name, gender, mass, and height of the character are displayed. 
+3. By clicking  / tapping on a name, it should go to the details page, where the name, gender, mass, and height of the character are displayed. 
 
 ## Submission criteria: 
-Once you have verified that the application works correctly and meets all the criteria above, you may deploy it to a public git repository. 
+Once the application works correctly and meets all the criteria above, it should be deployed to a public git repository. 
 
 ## Resources: 
-https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html
-http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/
-http://ionicframework.com/docs/v2/getting-started/
-https://github.com/dmackerman/ionic2-pokedex
+1. [angular1 and angular2 comparison](https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html)
+2. [introduction to ionic2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
+3. [Getting starteed with the app](http://ionicframework.com/docs/v2/getting-started/)
+4. [Sample ionic2 project for pokemon](https://github.com/dmackerman/ionic2-pokedex)
 
-The last item is similar app built using the Pokemon API. Feel free to use it for reference. Although you won't be able to run the project, as it was built using an older version of ionic, some things haven't changed much. You can look at https://github.com/dmackerman/ionic2-pokedex/tree/master/www/app/components/
+The last one is a similar app built using the Pokemon API. Feel free to use it for reference. Although you won't be able to run the project, as it was built using an older version of ionic, some things haven't changed much. You can look at https://github.com/dmackerman/ionic2-pokedex/tree/master/www/app/components/
