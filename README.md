@@ -23,9 +23,9 @@ This purpose of this service is to make http calls to the Star Wars API (SWAPI) 
 Once the application works correctly and meets all the criteria above, it should be deployed to a public git repository. 
 
 ## Resources: 
-1. [angular1 and angular2 comparison](https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html)
-2. [introduction to ionic2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
-3. [Getting starteed with the app](http://ionicframework.com/docs/v2/getting-started/)
+1. [Angular1 and Angular2 comparison](https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html)
+2. [Introduction to Ionic2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
+3. [Setting up Ionic2](http://ionicframework.com/docs/v2/getting-started/)
 4. [Sample ionic2 project for pokemon](https://github.com/dmackerman/ionic2-pokedex)
 
 The last one is a similar app built using the Pokemon API. Feel free to use it for reference. Although you won't be able to run the project, as it was built using an older version of ionic, some things haven't changed much. You can look at https://github.com/dmackerman/ionic2-pokedex/tree/master/www/app/components/
