@@ -1,6 +1,6 @@
 # Ionic Starwars
 
-## Project Des cription: 
+## Project Description: 
 The objective is to bulid a simple StarWars app using SWAPI(Starwars API) that will display Star Wars characters in a list, allow searching, and provide a details page to display additional info about the characters. 
 
 The project should have two pages and one provider (service). More information below:
